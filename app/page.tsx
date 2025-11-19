@@ -46,6 +46,13 @@ export default function Page() {
             className="block md:hidden"
             alt="Screenshots of the dashboard project showing mobile version"
           />
+          <Image
+            src="/john-pork.png"
+            width={560}
+            height={620}
+            className="hidden md:block"
+            alt="Screenshot of John Pork"
+          />
         </div>
       </div>
     </main>
